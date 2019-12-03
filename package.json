@@ -1,6 +1,6 @@
 {
   "name": "robotfriends",
-  "homepage": "https://blackmacy.github.io/robotfriends",
+  "homepage": "https://blackmacy.github.io/robotfriends-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
